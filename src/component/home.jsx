@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
 
-// import {NavLink} from "react-router-dom";
+import { Link } from "react-router-dom";
 // import pic from './'
 const Home = () => {
-
   return (
    <div className='myself ' >
  
@@ -33,15 +32,13 @@ const Home = () => {
         <div className='paragraph'>
          <p>I am a Student of Indian Institute of Technology,Madras .I am currently  in third year pursuing B TEch Degree in chemical engineering.</p>
         </div>
-      
-   </div>
-   
-     
-   </div>
+      </div>
+    </div>
   );
+};
+
+export default Home;
+
+{
+  /* <img  style={{borderRadius:'40%',width:'7cm',height:'7cm'}}  src={require('./papa.jpg')} alt="" /> */
 }
-
-export default Home
-
-
-      {/* <img  style={{borderRadius:'40%',width:'7cm',height:'7cm'}}  src={require('./papa.jpg')} alt="" /> */}

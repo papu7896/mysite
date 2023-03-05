@@ -14,7 +14,7 @@ const Home = () => {
                 <div style={{textAlign:'center'}}><h4 style={{fontFamily:'sans-serif',paddingRight:'1.2cm'}}>PAPU PAYENG</h4>
                <h3 style={{fontFamily:'monospace',paddingRight:'1.2cm'}}>Full Stack developer</h3>
                <div style={{display:'flex',justifyContent:'space-between',paddingRight:"3px"}}>
-               <a href="https://www.facebook.com/justin.hazarika.1/ " target="_blank" >Facebook</a>
+               <a href="https://www.facebook.com/justin.hazarika.1/ " target="_blank" >FACEBOOK</a>
                <a href="https://www.instagram.com/p_payeng2001/" >INSTAGRAM</a>
                <a href="https://www.linkedin.com/in/papu-payeng-5b8b8921a/" >LINKDEIN</a>
                </div>
